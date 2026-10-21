@@ -9,7 +9,7 @@ import {
   MovementHistoryItemDto,
   MovementHistoryReportResultDto,
 } from '@reports/application/dtos';
-import { MovementTypeMapper } from '@movements/infrastructure/mappers';
+import { MovementTypeMapper } from '@reports/infrastructure/mappers';
 
 /**
  * ReportRepositoryAdapter
